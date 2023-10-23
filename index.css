@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    
+    }
+   table {
+        border:1px solid rgba(20, 18, 18, 0.959);
+        padding: 16px;
+
+    }
+    tr:nth-child(even){
+        background-color: lightgray;
+        
+    }
+    thead{
+        background-color:whitesmoke;
+    }
+    caption{
+        padding: 16px;
+    }
+    pre{
+       
+        font-size: 16px;
+    }
